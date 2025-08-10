@@ -1180,6 +1180,7 @@
   <catalogs>Catalog.ГруппыПользователей</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.Должности</catalogs>
   <catalogs>Catalog.ДополнительныеОтчетыИОбработки</catalogs>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
   <catalogs>Catalog.ЗаказПокупателяПрисоединенныеФайлы</catalogs>
