@@ -1190,6 +1190,7 @@
   <catalogs>Catalog.ИдентификаторыОбъектовРасширений</catalogs>
   <catalogs>Catalog.КлючевыеОперации</catalogs>
   <catalogs>Catalog.КлючиДоступа</catalogs>
+  <catalogs>Catalog.КонтактныеЛица</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.КонтрагентыПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.МакетыПечатныхФорм</catalogs>
